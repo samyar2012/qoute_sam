@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/samyar2012/qoute_sam.git/static/css/main.53677331.css",
+    "main.js": "/samyar2012/qoute_sam.git/static/js/main.51cc247d.js",
+    "index.html": "/samyar2012/qoute_sam.git/index.html",
+    "main.53677331.css.map": "/samyar2012/qoute_sam.git/static/css/main.53677331.css.map",
+    "main.51cc247d.js.map": "/samyar2012/qoute_sam.git/static/js/main.51cc247d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53677331.css",
+    "static/js/main.51cc247d.js"
+  ]
+}
